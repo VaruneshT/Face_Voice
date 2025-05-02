@@ -1,0 +1,17 @@
+Flask
+flask-cors
+gunicorn
+face_recognition
+resemblyzer
+psycopg2-binary
+cryptography
+transformers
+torch
+opencv-python
+numpy
+pillow
+pydub
+librosa
+mediapipe
+scipy
+soundfile
