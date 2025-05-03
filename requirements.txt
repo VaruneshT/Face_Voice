@@ -12,4 +12,5 @@ pydub
 librosa
 mediapipe
 psycopg2-binary
-dlib==19.24.0 --only-binary :all:
+dlib==19.24.0
+pythonVersion: 3.10
